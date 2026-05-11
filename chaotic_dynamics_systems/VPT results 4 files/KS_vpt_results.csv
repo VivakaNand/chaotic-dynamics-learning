@@ -1,0 +1,13 @@
+Model,VPT_steps,VPT_s,VPT_LT
+Baseline RNN - MS,84,0.42,0.0395
+Hybrid Transfer+PINN - MS,54,0.27,0.0254
+Transfer Learning - MS,48,0.24,0.0226
+Baseline RNN (orig),48,0.24,0.0226
+PINN large-data (orig),45,0.225,0.0212
+MAML - MS,26,0.13,0.0122
+Hybrid Transfer+PINN (orig),22,0.11,0.0103
+Transfer Learning (orig),21,0.105,0.0099
+ESN,9,0.045,0.0042
+MAML (orig),0,0.0,0.0
+PINN-small (orig),0,0.0,0.0
+PINN-small - MS,0,0.0,0.0
