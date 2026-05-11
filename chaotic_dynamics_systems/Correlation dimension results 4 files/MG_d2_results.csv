@@ -1,0 +1,13 @@
+Model,D2,D2_err
+Transfer Learning - MS,1.883,1.717
+MAML - MS,1.864,1.736
+Hybrid Transfer+PINN (orig),1.78,1.82
+Transfer Learning (orig),1.766,1.834
+Baseline RNN - MS,1.75,1.85
+Hybrid Transfer+PINN - MS,1.707,1.893
+Baseline RNN (orig),1.642,1.958
+PINN large-data (orig),1.363,2.237
+ESN,1.349,2.251
+MAML (orig),1.335,2.265
+PINN-small - MS,1.272,2.328
+PINN-small (orig),1.073,2.527
