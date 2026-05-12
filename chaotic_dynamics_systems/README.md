@@ -1,4 +1,4 @@
-# Data-Efficient Learning of Chaotic Dynamical Systems
+# Comparative Evaluation of Data-Efficient Methods for Learning Chaotic Dynamical Systems
 
 **Master's Thesis — HSE University**
 
@@ -192,7 +192,7 @@ The checkpoint system saves a `progress.json` manifest to Drive after every comp
 
 ```bibtex
 @mastersthesis{vivaka2025chaotic,
-  title  = {Data-Efficient Learning of Chaotic Dynamical Systems},
+  title  = {Comparative Evaluation of Data-Efficient Methods for Learning Chaotic Dynamical Systems},
   author = {VivakaNand},
   school = {HSE University},
   year   = {2025}
